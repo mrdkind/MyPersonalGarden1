@@ -16,17 +16,17 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "github.com/mrdkind/MyPersonalGarden1",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
-      },
+    header: "Vazirmatn",
+    body: "Vazirmatn",
+    code: "IBM Plex Mono",
+    },
       colors: {
         lightMode: {
           light: "#faf8f8",
